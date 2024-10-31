@@ -1,0 +1,340 @@
+{
+  "cold_case_summaries": [
+    {
+      "victim": "John Doe",
+      "gender": "Male",
+      "location": "Phoenix, AZ",
+      "date": "March 2, 2015",
+      "summary": "John Doe was found shot to death in a downtown alley. His family reported him missing a week prior, and police suspect the involvement of known gang activity in the area. Although surveillance footage showed a suspect fleeing, no arrests have been made.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Jane Smith",
+      "gender": "Female",
+      "location": "Mesa, AZ",
+      "date": "July 15, 2016",
+      "summary": "Jane Smith was struck in a hit-and-run while crossing a busy intersection at night. Witnesses described a dark SUV speeding away. Investigators believe the incident may be linked to a series of similar accidents in the area, but leads have since gone cold.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Carlos Ramirez",
+      "gender": "Male",
+      "location": "Glendale, AZ",
+      "date": "October 20, 2017",
+      "summary": "Carlos Ramirez was shot in what police believe was a mistaken identity case while walking home. A neighbor reported hearing an argument before gunshots rang out. Despite a search, no weapon or suspect was found.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Anna Gonzalez",
+      "gender": "Female",
+      "location": "Tucson, AZ",
+      "date": "December 5, 2014",
+      "summary": "Anna Gonzalez was found strangled in her apartment. Her family had not heard from her for days, leading police to investigate. Evidence of forced entry was discovered, but no fingerprints were recovered.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "James White",
+      "gender": "Male",
+      "location": "Scottsdale, AZ",
+      "date": "June 23, 2018",
+      "summary": "James White, a retired teacher, was found dead in his garage with blunt force trauma to his head. No signs of robbery were noted, leading detectives to suspect a targeted attack. Neighbors reported seeing an unfamiliar vehicle, but no further leads developed.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Sarah Peterson",
+      "gender": "Female",
+      "location": "Phoenix, AZ",
+      "date": "November 15, 2016",
+      "summary": "Sarah Peterson was discovered deceased in a vacant lot. Evidence of assault was apparent, and police found traces of DNA, but they have not matched any known offenders. The case remains open as new technology is applied.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Michael Adams",
+      "gender": "Male",
+      "location": "Yuma, AZ",
+      "date": "February 3, 2020",
+      "summary": "Michael Adams was killed in a drive-by shooting near his residence. Investigators believe he was not the intended target. Despite multiple witnesses, no conclusive descriptions of the suspects were obtained.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Emily Clark",
+      "gender": "Female",
+      "location": "Flagstaff, AZ",
+      "date": "August 19, 2019",
+      "summary": "Emily Clark was last seen hiking and was reported missing. Her body was found months later off a remote trail, and investigators ruled her death a homicide. Despite extensive searches, no suspects have been identified.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Robert Green",
+      "gender": "Male",
+      "location": "Phoenix, AZ",
+      "date": "April 10, 2017",
+      "summary": "Robert Green was fatally shot at a gas station. Surveillance footage showed a masked suspect approaching him before fleeing in a vehicle. Police have not been able to trace the suspect or vehicle.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Olivia Parker",
+      "gender": "Female",
+      "location": "Chandler, AZ",
+      "date": "September 22, 2015",
+      "summary": "Olivia Parker’s body was found in her home, with signs of a struggle. Her boyfriend reported her missing, but he has been ruled out as a suspect. Police suspect a possible connection to a recent series of burglaries in the neighborhood.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Henry Lee",
+      "gender": "Male",
+      "location": "Peoria, AZ",
+      "date": "March 29, 2021",
+      "summary": "Henry Lee was attacked and killed in his driveway. Neighbors reported seeing two suspects running away. Despite descriptions of the suspects, no arrests have been made.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Lisa Tran",
+      "gender": "Female",
+      "location": "Mesa, AZ",
+      "date": "May 5, 2016",
+      "summary": "Lisa Tran was found stabbed in her apartment. Police suspect a burglary gone wrong. Her family continues to seek justice as new forensic methods are applied to old evidence.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Tommy Nguyen",
+      "gender": "Male",
+      "location": "Phoenix, AZ",
+      "date": "December 11, 2019",
+      "summary": "Tommy Nguyen was killed in a suspected robbery while walking to his car. Surveillance footage captured two individuals fleeing the scene, but they remain unidentified.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Alicia Simmons",
+      "gender": "Female",
+      "location": "Glendale, AZ",
+      "date": "January 4, 2018",
+      "summary": "Alicia Simmons was found dead in a park under mysterious circumstances. Witnesses reported hearing a scream, but no suspects were seen. The case has since grown cold.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Samuel Cooper",
+      "gender": "Male",
+      "location": "Tucson, AZ",
+      "date": "October 16, 2022",
+      "summary": "Samuel Cooper, a local store owner, was shot during an attempted robbery. Though security cameras recorded the incident, the footage was inconclusive. His family continues to seek answers.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Patricia Howard",
+      "gender": "Female",
+      "location": "Phoenix, AZ",
+      "date": "March 14, 2017",
+      "summary": "Patricia Howard was found strangled in a hotel room. The investigation revealed she was meeting an unknown individual. DNA was recovered but has not led to any arrests.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Derek James",
+      "gender": "Male",
+      "location": "Gilbert, AZ",
+      "date": "June 6, 2020",
+      "summary": "Derek James was fatally shot in what police suspect was a road rage incident. Witnesses reported a vehicle speeding away, but no license plate was visible.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Mary Walsh",
+      "gender": "Female",
+      "location": "Phoenix, AZ",
+      "date": "August 25, 2015",
+      "summary": "Mary Walsh was found dead in her apartment after neighbors noticed a foul smell. Police found no sign of forced entry, leading to suspicions of someone she knew being involved.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Victor Lopez",
+      "gender": "Male",
+      "location": "Tempe, AZ",
+      "date": "February 7, 2019",
+      "summary": "Victor Lopez was found dead behind a bar in Tempe. Investigators suspect a fight escalated, but no witnesses have come forward. The case remains open for leads.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Jessica Ortiz",
+      "gender": "Female",
+      "location": "Phoenix, AZ",
+      "date": "September 13, 2021",
+      "summary": "Jessica Ortiz’s body was discovered in an abandoned lot. Police suspect foul play due to the location and injuries, but no conclusive evidence has been found.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Brian Young",
+      "gender": "Male",
+      "location": "Scottsdale, AZ",
+      "date": "April 18, 2020",
+      "summary": "Brian Young was found dead at a construction site where he worked. His family reported he had been receiving threats, but no suspects have been identified.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "John Doe",
+      "gender": "Male",
+      "location": "Phoenix, AZ",
+      "date": "March 2, 2015",
+      "summary": "John Doe was found shot to death in a downtown alley. His family reported him missing a week prior, and police suspect the involvement of known gang activity in the area. Although surveillance footage showed a suspect fleeing, no arrests have been made.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Jane Smith",
+      "gender": "Female",
+      "location": "Mesa, AZ",
+      "date": "July 15, 2016",
+      "summary": "Jane Smith was struck in a hit-and-run while crossing a busy intersection at night. Witnesses described a dark SUV speeding away. Investigators believe the incident may be linked to a series of similar accidents in the area, but leads have since gone cold.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Carlos Ramirez",
+      "gender": "Male",
+      "location": "Glendale, AZ",
+      "date": "October 20, 2017",
+      "summary": "Carlos Ramirez was shot in what police believe was a mistaken identity case while walking home. A neighbor reported hearing an argument before gunshots rang out. Despite a search, no weapon or suspect was found.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Anna Gonzalez",
+      "gender": "Female",
+      "location": "Tucson, AZ",
+      "date": "December 5, 2014",
+      "summary": "Anna Gonzalez was found strangled in her apartment. Her family had not heard from her for days, leading police to investigate. Evidence of forced entry was discovered, but no fingerprints were recovered.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "James White",
+      "gender": "Male",
+      "location": "Scottsdale, AZ",
+      "date": "June 23, 2018",
+      "summary": "James White, a retired teacher, was found dead in his garage with blunt force trauma to his head. No signs of robbery were noted, leading detectives to suspect a targeted attack. Neighbors reported seeing an unfamiliar vehicle, but no further leads developed.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Sarah Peterson",
+      "gender": "Female",
+      "location": "Phoenix, AZ",
+      "date": "November 15, 2016",
+      "summary": "Sarah Peterson was discovered deceased in a vacant lot. Evidence of assault was apparent, and police found traces of DNA, but they have not matched any known offenders. The case remains open as new technology is applied.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Michael Adams",
+      "gender": "Male",
+      "location": "Yuma, AZ",
+      "date": "February 3, 2020",
+      "summary": "Michael Adams was killed in a drive-by shooting near his residence. Investigators believe he was not the intended target. Despite multiple witnesses, no conclusive descriptions of the suspects were obtained.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Emily Clark",
+      "gender": "Female",
+      "location": "Flagstaff, AZ",
+      "date": "August 19, 2019",
+      "summary": "Emily Clark was last seen hiking and was reported missing. Her body was found months later off a remote trail, and investigators ruled her death a homicide. Despite extensive searches, no suspects have been identified.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Robert Green",
+      "gender": "Male",
+      "location": "Phoenix, AZ",
+      "date": "April 10, 2017",
+      "summary": "Robert Green was fatally shot at a gas station. Surveillance footage showed a masked suspect approaching him before fleeing in a vehicle. Police have not been able to trace the suspect or vehicle.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Olivia Parker",
+      "gender": "Female",
+      "location": "Chandler, AZ",
+      "date": "September 22, 2015",
+      "summary": "Olivia Parker’s body was found in her home, with signs of a struggle. Her boyfriend reported her missing, but he has been ruled out as a suspect. Police suspect a possible connection to a recent series of burglaries in the neighborhood.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Henry Lee",
+      "gender": "Male",
+      "location": "Peoria, AZ",
+      "date": "March 29, 2021",
+      "summary": "Henry Lee was attacked and killed in his driveway. Neighbors reported seeing two suspects running away. Despite descriptions of the suspects, no arrests have been made.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Lisa Tran",
+      "gender": "Female",
+      "location": "Mesa, AZ",
+      "date": "May 5, 2016",
+      "summary": "Lisa Tran was found stabbed in her apartment. Police suspect a burglary gone wrong. Her family continues to seek justice as new forensic methods are applied to old evidence.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Tommy Nguyen",
+      "gender": "Male",
+      "location": "Phoenix, AZ",
+      "date": "December 11, 2019",
+      "summary": "Tommy Nguyen was killed in a suspected robbery while walking to his car. Surveillance footage captured two individuals fleeing the scene, but they remain unidentified.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Alicia Simmons",
+      "gender": "Female",
+      "location": "Glendale, AZ",
+      "date": "January 4, 2018",
+      "summary": "Alicia Simmons was found dead in a park under mysterious circumstances. Witnesses reported hearing a scream, but no suspects were seen. The case has since grown cold.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Samuel Cooper",
+      "gender": "Male",
+      "location": "Tucson, AZ",
+      "date": "October 16, 2022",
+      "summary": "Samuel Cooper, a local store owner, was shot during an attempted robbery. Though security cameras recorded the incident, the footage was inconclusive. His family continues to seek answers.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Patricia Howard",
+      "gender": "Female",
+      "location": "Phoenix, AZ",
+      "date": "March 14, 2017",
+      "summary": "Patricia Howard was found strangled in a hotel room. The investigation revealed she was meeting an unknown individual. DNA was recovered but has not led to any arrests.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Derek James",
+      "gender": "Male",
+      "location": "Gilbert, AZ",
+      "date": "June 6, 2020",
+      "summary": "Derek James was fatally shot in what police suspect was a road rage incident. Witnesses reported a vehicle speeding away, but no license plate was visible.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Mary Walsh",
+      "gender": "Female",
+      "location": "Phoenix, AZ",
+      "date": "August 25, 2015",
+      "summary": "Mary Walsh was found dead in her apartment after neighbors noticed a foul smell. Police found no sign of forced entry, leading to suspicions of someone she knew being involved.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Victor Lopez",
+      "gender": "Male",
+      "location": "Tempe, AZ",
+      "date": "February 7, 2019",
+      "summary": "Victor Lopez was found dead behind a bar in Tempe. Investigators suspect a fight escalated, but no witnesses have come forward. The case remains open for leads.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Jessica Ortiz",
+      "gender": "Female",
+      "location": "Phoenix, AZ",
+      "date": "September 13, 2021",
+      "summary": "Jessica Ortiz’s body was discovered in an abandoned lot. Police suspect foul play due to the location and injuries, but no conclusive evidence has been found.",
+      "status": "Unsolved"
+    },
+    {
+      "victim": "Brian Young",
+      "gender": "Male",
+      "location": "Scottsdale, AZ",
+      "date": "April 18, 2020",
+      "summary": "Brian Young was found dead at a construction site where he worked. His family reported he had been receiving threats, but no suspects have been identified.",
+      "status": "Unsolved"
+    }
+  ]
+}
